@@ -6,4 +6,4 @@ Some description!
 
 Watch tutorial on YouTuber
 
-### GitHub
+### GitHub Remote
